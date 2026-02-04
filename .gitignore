@@ -1,0 +1,8 @@
+/target
+/dist
+/build
+/worker
+**/*.rs.bk
+Cargo.lock
+/node_modules
+/.wrangler
